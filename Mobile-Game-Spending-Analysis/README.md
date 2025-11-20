@@ -2,7 +2,7 @@
 
 This repository contains an interactive **Excel Dashboard** that
 analyzes player behavior, spending patterns, and gaming preferences
-across various segments in the mobile gaming ecosystem.\
+across various segments in the mobile gaming ecosystem.
 The dashboard is designed using **Excel (Pivot Tables, Charts, Slicers,
 Power Query if applicable)** and visualizes insights in a clean,
 business-ready format.
@@ -12,7 +12,7 @@ business-ready format.
 ### ✔ **1. Player Demographics**
 
 -   Player distribution by **Device** (Android, iOS, Others)\
--   Player distribution by **Gender**\
+-   Player distribution by **Gender**
 -   Player segmentation based on spending categories:
     -   **Minnow**
     -   **Dolphin**
@@ -25,15 +25,15 @@ business-ready format.
 
 ### ✔ **3. Gameplay Behavior**
 
--   **Average Game Session Time** across genres\
+-   **Average Game Session Time** across genres
 -   Session time trends to identify high-engagement game categories
 
 ### ✔ **4. Interactivity & Filters**
 
 Users can interact using slicers for: - Device\
-- Payment Method\
-- Gender\
-- Game Genre\
+- Payment Method
+- Gender
+- Game Genre
 - Spending Segment
 
 ## 📁 **Repository Structure**
@@ -54,10 +54,10 @@ Users can interact using slicers for: - Device\
 
 ## 📌 **Use Cases**
 
--   Business analysis\
--   Gaming industry insights\
--   Portfolio project for data analysis\
--   Excel dashboard showcase\
+-   Business analysis
+-   Gaming industry insights
+-   Portfolio project for data analysis
+-   Excel dashboard showcase
 -   Data storytelling
 
 ## 👨‍💻 **Author**
