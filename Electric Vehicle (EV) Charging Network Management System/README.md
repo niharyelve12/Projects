@@ -24,10 +24,8 @@ The database models a real-world EV charging network used for analytics, billing
 
 | File/Folder | Description |
 |------------|-------------|
-| `schema.sql` | Complete database schema (merged SQL for all tables). |
-| `/sql_tables/` | Individual table scripts (`ev_users.sql`, `ev_chargers.sql`, etc.). |
-| `queries_presentation.pptx` | PPT containing SQL queries, explanations, outputs, and insights. |
-| `sample_queries.sql` | Collection of commonly used and advanced SQL queries. |
+| `Schemas` | Complete database schemas . |
+| `EV-SQL Project.pptx` | PPT containing SQL queries, explanations, outputs, and insights. |
 | `README.md` | Documentation for understanding & using the project. |
 
 ---
