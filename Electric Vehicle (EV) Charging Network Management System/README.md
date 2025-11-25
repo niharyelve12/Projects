@@ -14,7 +14,6 @@ This system manages:
 - Chargers  
 - Charging sessions  
 - Payments  
-- Automated routines & logs  
 
 The database models a real-world EV charging network used for analytics, billing, operational monitoring, and decision-making.
 
@@ -40,8 +39,6 @@ Tables included:
 4. **ev_chargers** – Individual charger units  
 5. **ev_chargingsessions** – Session logs for charging activity  
 6. **ev_payments** – Payment and billing details  
-7. **ev_routines** – Stored procedures, triggers, automation  
-
 ---
 
 ## 📊 Query Presentation (PPT)
