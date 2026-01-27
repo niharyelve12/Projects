@@ -75,12 +75,12 @@ pip install -r requirements.txt
 
 #### Free Selection App
 ```bash
-streamlit run streamlit_apps/app_free.py
+streamlit run streamlit_apps/app.py
 ```
 
 #### Controlled Selection App
 ```bash
-streamlit run streamlit_apps/app_controlled.py
+streamlit run streamlit_apps/app2.py
 ```
 
 The app will open automatically in your browser 🌐
