@@ -1,4 +1,4 @@
-## 📊Vehicle Accident Analysis & Insights| Project Overview
+## 📊Vehicle Accident Analysis & Insights | Project Overview
 This project presents a comprehensive Power BI dashboard analyzing vehicle accidents in **Nashville**.  
 It uncovers trends, contributing factors, severity patterns, and geographic hotspots using interactive visualizations.
 
