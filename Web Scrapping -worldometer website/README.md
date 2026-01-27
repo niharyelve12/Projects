@@ -48,17 +48,6 @@ A sample of the output is saved as **`sample.csv`**.
 
 ---
 
-## 📂 Repository Structure
-
-```
-World-Population-Web-Scraping
-│── README.md
-│── world_population_scraping.ipynb
-│── sample.csv
-```
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
@@ -87,18 +76,7 @@ Please review and comply with the website’s **terms of service** before scrapi
 
 ---
 
-## 📌 Future Improvements
-
-- Automate periodic data updates
-- Add data validation and error handling
-- Store data in a database
-- Visualize trends using Python or BI tools
-
----
-
 ## 👤 Author
 
-Your Name  
-Python & Data Analytics Enthusiast  
+Nihar Yelve
 
-⭐ If you find this project helpful, feel free to star the repository!
