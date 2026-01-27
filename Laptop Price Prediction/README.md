@@ -34,33 +34,6 @@ This repository includes:
 
 ---
 
-## 📂 Project Structure
-
-```
-Laptop-Price-Prediction/
-│
-├── notebooks/
-│   ├── Final-LaptopPricePrediction.ipynb
-│   └── model_training.ipynb
-│
-├── data/
-│   ├── laptop_data.csv
-│   └── processed_data.csv
-│
-├── streamlit_apps/
-│   ├── app_free.py        # App 1: Free selection
-│   └── app_controlled.py  # App 2: Controlled selection
-│
-├── screenshots/
-│   └── app_ui.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 ## 🧠 Tech Stack
 
 - **Python 3.9+**
@@ -140,15 +113,7 @@ Screenshots of the Streamlit UI are available in the `screenshots/` folder.
 
 ---
 
-## 🤝 Contributions
-Feel free to fork the repository, open issues, or submit pull requests.
 
----
-
-## 📜 License
-This project is for **educational and learning purposes**.
-
----
-
-✨ Happy Predicting!
+## 📜 Author
+Nihar Yelve
 
