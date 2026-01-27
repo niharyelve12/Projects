@@ -58,21 +58,6 @@ The analysis is presented through **two interactive Tableau dashboards** designe
 
 ---
 
-## 📂 Repository Structure
-
-```
-King-County-Residential-Property-Sales-Analysis
-│── README.md
-│── Tableau_Dashboard.twbx
-│── Data/
-│   └── king_county_house_sales.csv
-│── Screenshots/
-│   ├── sales_overview.png
-│   └── property_features.png
-```
-
----
-
 ## 🔍 Key Insights
 
 - Single-family homes dominate total sales value.
@@ -93,5 +78,5 @@ King-County-Residential-Property-Sales-Analysis
 
 ## 👤 Author
 
-Your Name  
-Data Analyst | Tableau Developer
+Nihar Yelve
+
