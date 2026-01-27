@@ -26,7 +26,6 @@ Heatmaps and geospatial patterns showing accident hotspots across Nashville.
 To recreate or run this dashboard, you typically need:
 
 - **Nashville_Accidents_Jan_2018_-_Apl_2025.rar (.csv/.xlsx)** — Contains all accident-level records(compressed file)
-- **Screenshots**-Contains Screenshots of dashboard 
 - **Accidents.rar(Power BI File)** — The main dashboard file (compressed file) 
 
 ---
